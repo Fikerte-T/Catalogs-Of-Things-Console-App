@@ -1,12 +1,12 @@
-# Ruby-Capstone-Project
+# Catalog-of-Things
 
-In this project we created a console app that helps you to keep a record of different types of things you won: books, music albums and games. Everything is be based on the UML class diagram presented below. The data is stored in JSON files but a database has also been prepared with tables structure analogical to the projects class structure.
+Catalog of things is a console app that helps usesrs to keep a record of different types of things they won: books, music albums and games. Everything is be based on the UML class diagram presented below. The data is stored in JSON files. A database has also been prepared with tables structure analogical to the projects class structure.
 
 ## Technologies Used
 
-* Language (Ruby)
+* Language - Ruby
+* Testing library - Rspec
 * SQL
-* Testing library Rspec
 
 ## UML class diagram
 
@@ -47,7 +47,7 @@ ruby main.rb
 * Clone the repo using the command below
 
 ```
-https://github.com/oluyaratosin123/Ruby-Capstone-Project.git
+https://github.com/Fikerte-T/Catalogs-Of-Things-Console-App
 ```
 
 ```
